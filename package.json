@@ -1,6 +1,6 @@
 {
   "name": "haproxy-stats",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get HAProxy statistics in JSON",
   "license": "MIT",
   "repository": {
@@ -32,6 +32,7 @@
     "analytics"
   ],
   "dependencies": {
-    "request": "^2.69.0"
+    "request": "^2.69.0",
+    "csv": "^0.4.6"
   }
 }
