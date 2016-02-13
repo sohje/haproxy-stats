@@ -1,5 +1,6 @@
 # haproxy-stats
 [![npm version](https://badge.fury.io/js/haproxy-stats.svg)](https://badge.fury.io/js/haproxy-stats)
+[![Build Status](https://travis-ci.org/sohje/haproxy-stats.svg?branch=master)](https://travis-ci.org/sohje/haproxy-stats)
 
 Get HAProxy statistics in JSON format via HTTP request.  
 Check [docs](http://www.haproxy.org/#docs) for more info.
